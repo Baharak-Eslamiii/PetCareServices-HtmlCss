@@ -9,7 +9,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
          <ul>
-           <li><a href="#screenshot">Screenshot</a></li>
+           <li><a href="#camera-screenshots">Screenshot</a></li>
          </ul>
           <ul>
            <li><a href="#live demo">Live Demo</a></li>
