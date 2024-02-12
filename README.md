@@ -12,29 +12,29 @@
            <li><a href="#camera-screenshots">Screenshot</a></li>
          </ul>
           <ul>
-           <li><a href="#:globe_with_meridians:-live-demo">Live Demo</a></li>
+           <li><a href="#globe_with_meridians-live-demo">Live Demo</a></li>
          </ul>
           <ul>
-           <li><a href="#:date:-development-information">Development Information</a></li>
+           <li><a href="#date-development-information">Development Information</a></li>
          </ul>
     </li>
     <li>
-      <a href="#:computer:-built-with">Built With</a>
+      <a href="#computer-built-with">Built With</a>
     </li>
     <li>
-      <a href="#:pencil:-featurs">Features</a>
+      <a href="#pencil-featurs">Features</a>
     </li>
     <li>
-      <a href="#:open_hands:-contributing">Contributing</a>
+      <a href="#open_hands-contributing">Contributing</a>
     </li>
     <li>
-      <a href="#:mailbox:-contact">Contact</a>
+      <a href="#mailbox-contact">Contact</a>
     </li>
     <li>
-      <a href="#:sparkles:-acknowledgments">Acknowledgments</a>
+      <a href="#sparkles-acknowledgments">Acknowledgments</a>
     </li>
     <li>
-      <a href="#:star:-support">Support</a>
+      <a href="#star-support">Support</a>
     </li>
   </ul>
   </details>
