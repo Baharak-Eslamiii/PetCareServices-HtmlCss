@@ -12,29 +12,29 @@
            <li><a href="#camera-screenshots">Screenshot</a></li>
          </ul>
           <ul>
-           <li><a href="#🌐-live-demo">Live Demo</a></li>
+           <li><a href="#:globe_with_meridians:-live-demo">Live Demo</a></li>
          </ul>
           <ul>
-           <li><a href="#development-information">Development Information</a></li>
+           <li><a href="#:date:-development-information">Development Information</a></li>
          </ul>
     </li>
     <li>
-      <a href="#built-with">Built With</a>
+      <a href="#:computer:-built-with">Built With</a>
     </li>
     <li>
-      <a href="#featurs">Features</a>
+      <a href="#:pencil:-featurs">Features</a>
     </li>
     <li>
-      <a href="#contributing">Contributing</a>
+      <a href="#:open_hands:-contributing">Contributing</a>
     </li>
     <li>
-      <a href="#contact">Contact</a>
+      <a href="#:mailbox:-contact">Contact</a>
     </li>
     <li>
-      <a href="#acknowledgments">Acknowledgments</a>
+      <a href="#:sparkles:-acknowledgments">Acknowledgments</a>
     </li>
     <li>
-      <a href="#support">Support</a>
+      <a href="#:star:-support">Support</a>
     </li>
   </ul>
   </details>
@@ -57,21 +57,21 @@ This website is for pet owners, offering everything related to pet care, includi
 
 <!-- LIVE DEMO -->
 
-### 🌐 Live Demo
+### :globe_with_meridians: Live Demo
 
   - [View Demo](http:link "Live View")
   
   
 <!-- DEVELOPMENT INFORMATION -->
 
-### 📅 Development Information 
+### :date: Development Information 
 
  - Project Creation Date:  (2022-03-01)
   
   
 <!-- BUTILT WITH -->
 
-## 💻  Built With
+## :computer: Built With
 
 - HTML
 - CSS
@@ -79,7 +79,7 @@ This website is for pet owners, offering everything related to pet care, includi
  
 <!-- FEATURES -->
 
-## 📝 Features 
+## :pencil: Features 
 
 - User-friendly interface
 - Social media integration
@@ -88,7 +88,7 @@ This website is for pet owners, offering everything related to pet care, includi
     
 <!-- CONTRIBUTING -->
 
-## 👐 Contributing  
+## :open_hands: Contributing  
 
 Contributions are always welcome!
 
@@ -99,7 +99,7 @@ Please adhere to this project's `code of conduct`.
 
 <!-- CONTACT -->
 
-## 📫 Contact
+## :mailbox: Contact
 
 You can reach me :
 - [baharak.eslamiii@gmail.com](#) - Gmail
@@ -109,7 +109,7 @@ You can reach me :
 
 <!-- ACKNOWLEDGMENTS -->
 
-## ✨ Acknowledgments
+## :sparkles: Acknowledgments
 
 I would like to thank the following plugins and libraries for their contributions to the open source community in my project: 🙇
 
@@ -119,7 +119,7 @@ I would like to thank the following plugins and libraries for their contribution
 
 <!-- SUPPORT -->
 
-## ⭐ Support
+## :star: Support
 Thank you for considering my project! If you find it useful,please 
 show your support by giving this repository a starring(🌟)!!! 
 You can also follow me on the [social media](#contact) I mentioned above.
