@@ -12,7 +12,7 @@
            <li><a href="#camera-screenshots">Screenshot</a></li>
          </ul>
           <ul>
-           <li><a href="#live demo">Live Demo</a></li>
+           <li><a href="#🌐-live demo">Live Demo</a></li>
          </ul>
           <ul>
            <li><a href="#development information">Development Information</a></li>
