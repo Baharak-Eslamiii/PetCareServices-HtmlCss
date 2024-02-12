@@ -1,6 +1,6 @@
 # PetCareServices Website (Not Responsive)
-
 <a name="readme-top"></a>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -48,7 +48,7 @@ This website is for pet owners, offering everything related to pet care, includi
 
 <!-- SCREEN SHOT -->
 
-### 📷  Screenshots
+### 📷 Screenshots
 
 ![Home Page](/screenshots/1.png "Home Page")
 
@@ -64,7 +64,7 @@ This website is for pet owners, offering everything related to pet care, includi
   
 <!-- DEVELOPMENT INFORMATION -->
 
-### 📅  Development Information 
+### 📅 Development Information 
 
  - Project Creation Date:  (2022-03-01)
   
@@ -79,7 +79,7 @@ This website is for pet owners, offering everything related to pet care, includi
  
 <!-- FEATURES -->
 
-## 📝  Features 
+## 📝 Features 
 
 - User-friendly interface
 - Social media integration
@@ -99,7 +99,7 @@ Please adhere to this project's `code of conduct`.
 
 <!-- CONTACT -->
 
-## 📫  Contact
+## 📫 Contact
 
 You can reach me :
 - [baharak.eslamiii@gmail.com](#) - Gmail
@@ -109,7 +109,7 @@ You can reach me :
 
 <!-- ACKNOWLEDGMENTS -->
 
-##  ✨ Acknowledgments
+## ✨ Acknowledgments
 
 I would like to thank the following plugins and libraries for their contributions to the open source community in my project: 🙇
 
@@ -119,7 +119,7 @@ I would like to thank the following plugins and libraries for their contribution
 
 <!-- SUPPORT -->
 
-##  ⭐ Support
+## ⭐ Support
 Thank you for considering my project! If you find it useful,please 
 show your support by giving this repository a starring(🌟)!!! 
 You can also follow me on the [social media](#contact) I mentioned above.
