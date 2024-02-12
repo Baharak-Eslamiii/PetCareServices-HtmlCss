@@ -1,5 +1,5 @@
-# PetCareServices Website (Not Responsive)
 <a name="readme-top"></a>
+# PetCareServices Website (Not Responsive)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -71,7 +71,7 @@ This website is for pet owners, offering everything related to pet care, includi
   
 <!-- BUTILT WITH -->
 
-## 💻 Built With
+##  Built With
 
 - HTML
 - CSS
