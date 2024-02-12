@@ -49,6 +49,7 @@ This website is for pet owners, offering everything related to pet care, includi
 <!-- SCREEN SHOT -->
 
 ### 📷 Screenshots
+### ⌛ Screenshots
 
 ![Home Page](/screenshots/1.png "Home Page")
 
@@ -71,7 +72,7 @@ This website is for pet owners, offering everything related to pet care, includi
   
 <!-- BUTILT WITH -->
 
-## 💻 # Built With
+## 💻  Built With
 
 - HTML
 - CSS
