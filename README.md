@@ -38,7 +38,7 @@
     </li>
   </ul>
   </details>
- </br>
+
 
 <!-- ABOUT THE PROJECT -->
 
