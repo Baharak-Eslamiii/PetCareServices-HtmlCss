@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+![image](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/eadd1d59-66c4-4dbe-a08f-64d766507290)![image](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/20d597d2-cb54-46fd-8382-a7529a407ffd)<a name="readme-top"></a>
 # PetCareServices Website (Not Responsive)
 
 
@@ -7,7 +7,7 @@
 <summary><strong> 📓 Table of Contents</strong></summary>
   <ul>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#star2-about-the-project">About The Project</a>
          <ul>
            <li><a href="#camera-screenshots">Screenshot</a></li>
          </ul>
@@ -42,9 +42,10 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About the project
+## :star2: About the project
 
-This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS **(actually, this site is for front-End beginners)**.
+This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS **(actually, this site is for front-End beginners)**.</br>
+In fact, this was my first project that I coded :neckbeard: 😳.
 
 <!-- SCREEN SHOT -->
 
