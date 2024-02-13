@@ -41,7 +41,6 @@
   
   ##
   
-</br>
 
 <!-- ABOUT THE PROJECT -->
 
