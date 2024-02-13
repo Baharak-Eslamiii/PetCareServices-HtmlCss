@@ -38,6 +38,7 @@
     </li>
   </ul>
   </details>
+  
 ---
 
 <!-- ABOUT THE PROJECT -->
