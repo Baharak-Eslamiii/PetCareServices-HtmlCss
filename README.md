@@ -1,4 +1,4 @@
-![image](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/eadd1d59-66c4-4dbe-a08f-64d766507290)![image](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/20d597d2-cb54-46fd-8382-a7529a407ffd)<a name="readme-top"></a>
+<a name="readme-top"></a>
 # PetCareServices Website (Not Responsive)
 
 
@@ -45,16 +45,15 @@
 ## :star2: About the project
 
 This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS **(actually, this site is for front-End beginners)**.</br>
-In fact, this was my first project that I coded :neckbeard: 😳.
+**In fact, this was my first project that I coded** 😳.
 
 <!-- SCREEN SHOT -->
 
 ### :camera: Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img src="src/assets/img/sc.png" width="100%" height="100%"/>
 
 <!-- LIVE DEMO -->
 
