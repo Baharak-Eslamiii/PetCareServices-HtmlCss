@@ -54,9 +54,9 @@ This website is for pet owners, offering everything related to pet care, includi
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/36a8041a-2dac-47f8-9dd5-6742b15df015" width="50%" height="50%" alt="overviewpetimg" />
+  <img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/36a8041a-2dac-47f8-9dd5-6742b15df015" width="40%" height="50%" alt="overviewpetimg" />
 </div>
-
+![petimg3](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/36a8041a-2dac-47f8-9dd5-6742b15df015)
 
 <!-- LIVE DEMO -->
 
