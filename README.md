@@ -122,7 +122,7 @@ I would like to thank the following plugins and libraries for their contribution
 ## :star: Support
 Thank you for considering my project! If you find it useful,please 
 show your support by giving this repository a starring(🌟)!!! 
-You can also follow me on the [social media](#contact) I mentioned above.
+You can also follow me on the [social media](#mailbox-contact) I mentioned above.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
