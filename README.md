@@ -53,11 +53,11 @@ This website is for pet owners, offering everything related to pet care, includi
 
 ### :camera: Screenshots
 
-<img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/0df0e667-2b33-4ef1-9958-3c96908e8f3a" width="50%" height="100%"  alt="overviewpetimg" />
+<img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/0df0e667-2b33-4ef1-9958-3c96908e8f3a" width="50%" height="50%"  alt="overviewpetimg" />
 <div align="center"> 
-  <img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/0df0e667-2b33-4ef1-9958-3c96908e8f3a/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/0df0e667-2b33-4ef1-9958-3c96908e8f3a/500x1000?text=Your+Screenshot+here" alt="screenshot" />
 </div>
-
+![petimg3](https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/0df0e667-2b33-4ef1-9958-3c96908e8f3a)
 <!-- LIVE DEMO -->
 
 ### :globe_with_meridians: Live Demo
