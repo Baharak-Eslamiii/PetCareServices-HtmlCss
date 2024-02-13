@@ -5,6 +5,9 @@
 <!-- TABLE OF CONTENTS -->
 <details>
 <summary><h2> 📓 Table of Contents</h2></summary>
+  
+  ##
+  
   <ul>
     <li>
       <a href="#star2-about-the-project">About The Project</a>
@@ -39,7 +42,7 @@
   </ul>
   </details>
   
-  ##
+  
   
 
 <!-- ABOUT THE PROJECT -->
