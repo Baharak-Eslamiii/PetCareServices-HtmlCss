@@ -4,10 +4,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-<summary><h2> 📓 Table of Contents</h2></summary>
-  
-  ##
-  
+<summary><h2>📓 Table of Contents</h2></summary>
   <ul>
     <li>
       <a href="#star2-about-the-project">About The Project</a>
@@ -42,7 +39,7 @@
   </ul>
   </details>
   
-  
+  ##
   
 
 <!-- ABOUT THE PROJECT -->
@@ -50,12 +47,11 @@
 ## :star2: About the project
 
 This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS **(actually, this site is for front-End beginners)**.</br>
-**In fact, this was my first project that I coded** 😳.
+**By the way, this is my first project that I coded** 😀.
 
 <!-- SCREEN SHOT -->
 
 ### :camera: Screenshots
-
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 <img src="src/assets/img/sc.png" width="100%" height="100%"/>
