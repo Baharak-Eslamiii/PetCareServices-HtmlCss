@@ -52,7 +52,6 @@ This website is for pet owners, offering everything related to pet care, includi
 <!-- SCREEN SHOT -->
 
 ### :camera: Screenshots
-
 <div align="center"> 
   <img  src="https://github.com/Baharak-Eslamiii/PetCareServices-HtmlCss/assets/152727444/a3d8d9dc-4a33-4f32-9145-ef1798c323b4"  alt="overviewpetimg" />
 </div>
@@ -61,14 +60,12 @@ This website is for pet owners, offering everything related to pet care, includi
 <!-- LIVE DEMO -->
 
 ### :globe_with_meridians: Live Demo
-
   - [View Demo](https://baharak-eslamiii.github.io/PetCareServices-HtmlCss/)
   
   
 <!-- DEVELOPMENT INFORMATION -->
 
 ### :date: Development Information 
-
  - Project Creation Date:  (2022-03-01)
   
   
