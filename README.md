@@ -62,7 +62,7 @@ This website is for pet owners, offering everything related to pet care, includi
 
 ### :globe_with_meridians: Live Demo
 
-  - [View Demo]([http:link "Live View"](https://baharak-eslamiii.github.io/PetCareServices-HtmlCss/))
+  - [View Demo](https://baharak-eslamiii.github.io/PetCareServices-HtmlCss/)
   
   
 <!-- DEVELOPMENT INFORMATION -->
