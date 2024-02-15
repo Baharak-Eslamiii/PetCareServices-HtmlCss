@@ -46,7 +46,7 @@
 
 ## :star2: About the project
 
-This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS **(actually, this site is for front-End beginners)**.</br>
+This website is for pet owners, offering everything related to pet care, including feeding, training, health, and grooming  as well as practical tips and advice  from the expert team. This site is coded with HTML and CSS.</br> **(actually, this site is for front-End beginners)**.</br>
 **By the way, this is my first project that I coded** 😀.
 
 <!-- SCREEN SHOT -->
